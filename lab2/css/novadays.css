@@ -11,6 +11,11 @@ h1 {
   text-align: center;
   
   }
+  ul>li.black{
+ 	  color: black;
+	  font-weight:700
+   }
+  
   ul>li:nth-child(2n+1) {
 	  background-color:gray;
 	  color:#8b0000;
