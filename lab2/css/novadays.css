@@ -11,20 +11,18 @@ h1 {
   text-align: center;
   
   }
- ul>li:nth-child(2n+1) {
+ul>li:nth-child(2n+1) {
 	  background-color:gray;
 	  color:#8b0000;
   }
-  ul>li.black{
-	  color: 000000;
-	  font-weight:700
-  }
+   
   
    ul>li:nth-child(even) {
 	  background-color: white;
   }
   .threefive:hover {
 	  color:blue;
+	  cursor: default;
   }
   .f4 {
 	  background-color:red;
