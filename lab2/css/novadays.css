@@ -23,7 +23,7 @@ h1 {
    ul>li:nth-child(even) {
 	  background-color: white;
   }
-  ol>li:hover:nth-child(3n+5) {
+  ol>li:hover:nth-child(2n+3) {
 	  color:blue;
 	  cursor: default;
   }
