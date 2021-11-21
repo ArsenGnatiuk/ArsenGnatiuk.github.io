@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  font-size: 22px;
+  }
+  
+  header a{
+  font-style: italic;
+  }
+  
+  h2 {
+  text-align: center;
+  
+  }
+ ul>li:nth-child(2n+1) {
+	  background-color:gray;
+	  color:#8b0000;
+  }
+   
+  #ol>li{
+	  background-color:silver;
+	  color:black;
+  }
+   ul>li:nth-child(even) {
+	  background-color: white;
+  }
+  ol>li:hover:nth-child(2n+3) {
+	  color:blue;
+	  cursor: default;
+  }
+  ol>li:nth-child(4) {
+	  background-color:red;
+  }
