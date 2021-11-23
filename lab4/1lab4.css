@@ -91,8 +91,8 @@ body {
 @media (max-width: 768px ){
 	 
    .container{
-	  max-width:760px;
-	max-height:225px;
+	  min-width:50%;
+	max-height:30%;
       justify-self:center;
      justify-content:flex-end;
      flex-direction:column;
