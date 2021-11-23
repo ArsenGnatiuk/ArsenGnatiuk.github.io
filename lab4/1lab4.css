@@ -92,14 +92,14 @@ body {
 	 
    .container{
 	  min-width:50%;
-	max-height:30%;
-      justify-self:center;
+	max-height:40%;
+ 
      justify-content:flex-end;
      flex-direction:column;
 	 transform:scale(0.67);
 }
     .box{
-	 align-self:center;
+ 
 	  min-width:85%;
 	 
 		}	
