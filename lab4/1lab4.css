@@ -89,23 +89,37 @@ body {
     
 
 @media (max-width: 768px ){
-	 
+  
+   html {
+	   overflow:hidden;
+   }
    .container{
-	   margin-top:500px;
-	  min-width:50%;
-	max-height:40%;
- 	align-self:flex-end;
-	   align-content:flex-end;
      justify-content:flex-end;
      flex-direction:column;
-	 transform:scale(0.67);
-}
-    .box{
- 	margin-top:10px 10px 10px;
-	  min-width:85%;
-	 
-		}	
-		 
+transform:scale(0.55);
+margin-top:-16%;
+
+	 }    
+
+    #box1{
+   align-self:center;
+    min-width:80%;
+	
+    }  
+   
+   #box2{
+   align-self:center;
+    min-width:80%;
+	    margin-top:-1,5%;
+    } 
+	
+	#box3{
+   align-self:center;
+    min-width:80%;
+	margin-top:-1,5%;
+	
+    } 
+
  	 
 }
  
