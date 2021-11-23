@@ -91,7 +91,7 @@ body {
 @media (max-width: 768px ){
 	 
    .container{
-	   margin-top:200px;
+	   margin-top:500px;
 	  min-width:50%;
 	max-height:40%;
  	align-self:flex-end;
@@ -101,17 +101,11 @@ body {
 	 transform:scale(0.67);
 }
     .box{
- 	margin-bottom:10px 10px 10px;
+ 	margin-top:10px 10px 10px;
 	  min-width:85%;
 	 
 		}	
-		#box2{
-			margin-top:-3%;
-			  
-		}
-		#box3{
-			margin-top:-3%;
-		}
+		 
  	 
 }
  
