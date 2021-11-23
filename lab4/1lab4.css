@@ -91,12 +91,12 @@ body {
 @media (max-width: 768px ){
   
    html {
-	   overflow:hidden;
+	   overflow:auto;
    }
    .container{
      justify-content:flex-end;
      flex-direction:column;
-transform:scale(0.55);
+transform:scale(0.7);
 margin-top:-16%;
 
 	 }    
