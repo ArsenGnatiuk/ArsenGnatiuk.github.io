@@ -113,6 +113,8 @@ body {
  	 
 }
 @media (max-width: 600px ){
+	.container{
 	align-self:flex-end;
+	}
 }
  
