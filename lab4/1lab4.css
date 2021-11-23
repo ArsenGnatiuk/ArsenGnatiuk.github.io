@@ -93,7 +93,7 @@ body {
    .container{
 	  max-width:760px;
 	max-height:600px;
-  
+      justify-self:center;
      justify-content:flex-end;
      flex-direction:column;
 	 transform:scale(0.67);
@@ -112,5 +112,7 @@ body {
 		}
  	 
 }
-
+@media (max-width: 600px ){
+	align-self:flex-end;
+}
  
